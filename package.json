@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "nodemon": "^1.17.3",
+    "opencv4nodejs": "^4.2.1"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon"
+  }
+}
